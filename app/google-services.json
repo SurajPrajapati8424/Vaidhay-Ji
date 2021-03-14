@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333302190769",
+    "project_id": "doctorave-master-e3eaf",
+    "storage_bucket": "doctorave-master-e3eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333302190769:android:bc50df3709252898600890",
+        "android_client_info": {
+          "package_name": "com.id.drapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333302190769-kj7mh1f5t49krvm9snmjmojnmsuugp80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIS7Q1FdQ3LvUWOLlyptWVnwDg0y9oiP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333302190769-kj7mh1f5t49krvm9snmjmojnmsuugp80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
